@@ -1,0 +1,6 @@
+C:\Users\Jorge\source\repos\PV2doParcial\PV2doParcial\bin\Debug\PV2doParcial.exe.config
+C:\Users\Jorge\source\repos\PV2doParcial\PV2doParcial\bin\Debug\PV2doParcial.exe
+C:\Users\Jorge\source\repos\PV2doParcial\PV2doParcial\bin\Debug\PV2doParcial.pdb
+C:\Users\Jorge\source\repos\PV2doParcial\PV2doParcial\obj\Debug\PV2doParcial.csprojAssemblyReference.cache
+C:\Users\Jorge\source\repos\PV2doParcial\PV2doParcial\obj\Debug\PV2doParcial.exe
+C:\Users\Jorge\source\repos\PV2doParcial\PV2doParcial\obj\Debug\PV2doParcial.pdb
