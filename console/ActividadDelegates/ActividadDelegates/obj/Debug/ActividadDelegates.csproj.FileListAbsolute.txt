@@ -1,0 +1,6 @@
+C:\Users\Jorge\source\repos\ActividadDelegates\ActividadDelegates\bin\Debug\ActividadDelegates.exe.config
+C:\Users\Jorge\source\repos\ActividadDelegates\ActividadDelegates\bin\Debug\ActividadDelegates.exe
+C:\Users\Jorge\source\repos\ActividadDelegates\ActividadDelegates\bin\Debug\ActividadDelegates.pdb
+C:\Users\Jorge\source\repos\ActividadDelegates\ActividadDelegates\obj\Debug\ActividadDelegates.csprojAssemblyReference.cache
+C:\Users\Jorge\source\repos\ActividadDelegates\ActividadDelegates\obj\Debug\ActividadDelegates.exe
+C:\Users\Jorge\source\repos\ActividadDelegates\ActividadDelegates\obj\Debug\ActividadDelegates.pdb
